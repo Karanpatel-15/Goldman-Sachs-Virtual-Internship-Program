@@ -15,9 +15,7 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 `What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?`
 
-Here is a sample data file containing hashes dumped together:
-
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/passwd_dump.txt
+[Here](https://github.com/Karanpatel-15/Virtual-Internship-Programs/blob/main/passwd_dump.txt) is a sample data file containing hashes dumped together:
 
 After the conducted analysis it was determined that organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords. 
 
@@ -39,8 +37,6 @@ As a result of the analysis the following uplifts are proposed to increase the o
 Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across. Analysing the passwords and their respective security algorithms used, I narrowed down my observations into this report.
 
 Complete report is available [Here](https://github.com/Karanpatel-15/Virtual-Internship-Programs/blob/main/Goldman%20Sachs%20Virtual%20Intership.docx): 
-
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
 
 ## Resources 
 
