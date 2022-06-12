@@ -38,7 +38,7 @@ As a result of the analysis the following uplifts are proposed to increase the o
 # Project Report and Observations 
 Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across. Analysing the passwords and their respective security algorithms used, I narrowed down my observations into this report.
 
-Complete report is available [Here](Goldman Sachs Virtual Intership.docx): 
+Complete report is available [Here](https://github.com/Karanpatel-15/Virtual-Internship-Programs/blob/main/Goldman%20Sachs%20Virtual%20Intership.docx): 
 
 https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
 
